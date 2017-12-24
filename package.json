@@ -1,0 +1,23 @@
+{
+  "name": "youtube-smartv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonMoraMora/Youtube-Smart.git"
+  },
+  "author": "Jaison Jhair Mora Mora",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JasonMoraMora/Youtube-Smart/issues"
+  },
+  "homepage": "https://github.com/JasonMoraMora/Youtube-Smart#readme",
+  "dependencies": {
+    "electron": "^1.7.10"
+  }
+}
